@@ -1,7 +1,0 @@
-"Full-Combo-1"
-mb,Mb,48,89
-Top,LVB,LvB,GCE,GCe,n14,#14,o27,O27
-Eris,eris
-Umber,umber,Amber
-Lumber,Castle,timber,Timber
-Picasso
